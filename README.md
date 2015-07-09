@@ -14,3 +14,7 @@ change PC1 #1
 change pc1 #2
 
 
+change file on pc2 #1
+
+change file on pc2 #2
+
